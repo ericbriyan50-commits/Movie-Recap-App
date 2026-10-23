@@ -1,6 +1,6 @@
 streamlit
 moviepy==1.0.3
 gtts
-opencv-python
+opencv-python-headless
 numpy
 openai
