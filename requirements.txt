@@ -1,0 +1,6 @@
+streamlit
+moviepy
+gtts
+opencv-python
+numpy
+
